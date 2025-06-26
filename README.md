@@ -1,0 +1,1 @@
+This is a file encryption system that supports AES and DES encryption/decryption for arbitrary files, along with hash verification of the decrypted result. The system requires manual input of the file path and the encryption/decryption key.
